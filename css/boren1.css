@@ -1,0 +1,48 @@
+@charset "utf-8";
+body{
+
+}
+div#div1{
+	position: absolute;
+	top:0;
+	left:0;
+	bottom:0;
+	right:0; 
+	z-index:-1; 
+}
+div#div1 > img {
+	height:100%;
+	width:100%;
+	border:0;
+	min-width:100%;
+
+}
+
+#one{
+	width:800;
+	height: 300;
+	margin-left: 18%;
+	margin-top: 20%;
+	display:inline;
+}
+
+div#SP1{
+
+	margin-left: 18%;
+	margin-top: 20%;
+	float: left;
+	
+}
+
+#zixun{
+
+	background-color: #246ed4;
+    float: left;
+	margin-top: 22.2%;
+	height:271;
+}
+
+#song{
+	position:fixed;
+	margin-left: 75%;
+}
